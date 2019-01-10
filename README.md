@@ -20,6 +20,8 @@
 ```properties
 ## application.properties
 spring.rocketmq.name-server=127.0.0.1:9876
+rocketmq4.x:
+spring.rocketmq.nameService=127.0.0.1:9876
 ```
 
 > More relevant configurations for produce:
